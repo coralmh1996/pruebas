@@ -582,7 +582,7 @@
           "original_order": "3638"
         }
       ]
-    }, //hola 
+    },
     {
       "Entailment_probabilities": {
         "Contradiction": 0.0035464237444102764, 
